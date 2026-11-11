@@ -12,7 +12,7 @@
 
 <br/>
 
-```ts
+```
 const miki = {
   from: "Russia",
   builds: ["Discord bots", "web panels", "Minecraft servers", "games"],
@@ -21,60 +21,47 @@ const miki = {
   sleep: undefined,
 };
 ```
+What I'm building
+<table> <tr> <td width="50%" valign="top">
 
-## What I'm building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Echo
-
+Echo
 Discord bot and its web panel. Moderation, levels, economy, tickets, logs, games (Mafia, Bunker), server catalog with monitoring.
 
 The site speaks 10 languages. There is a developer portal: API keys, request log, webhooks, sandbox, and an option to run Echo under your own bot token.
 
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react,discordjs,postgres,nginx&theme=dark" height="32"/>
 
-`407 DB migrations` `Drizzle` `Vitest`
+407 DB migrations Drizzle Vitest
 
 <a href="https://echo-assistants.tech">echo-assistants.tech</a> · <a href="https://monitoring.echo-assistants.tech">monitoring</a> · <a href="https://developers.echo-assistants.tech">developers</a>
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
 
-### Black Die
-
+Black Die
 Co-op horror for Steam. A cursed 1980s board game found in an empty Leningrad communal flat. Players roll a die, walk 16 cells to the centre of the board, hide from monsters and pay for mistakes with coupons.
 
 The host runs all the rules, so the same code works offline and over the network.
 
 <img src="https://skillicons.dev/icons?i=godot,python,blender&theme=dark" height="32"/>
 
-`Godot 4.7` `GodotSteam` `Jolt`
+Godot 4.7 GodotSteam Jolt
 
 Closed beta, Steam keys only.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td> </tr> <tr> <td width="50%" valign="top">
 
-### Echo · Minecraft
-
+Echo · Minecraft
 A Minecraft network behind a Velocity proxy. One of the servers runs Arclight 1.21.1, so Fabric mods and Bukkit plugins live in one world.
 
 I write the plugins, mods (mobs, furniture, fishing, saves), a launcher with login through the site, and the server's own forum.
 
 <img src="https://skillicons.dev/icons?i=java,gradle,postgres,linux&theme=dark" height="32"/>
 
-`Velocity` `Arclight` `Fabric` `Paper API`
+Velocity Arclight Fabric Paper API
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
 
-### Earlier
-
+Earlier
 Majestic web panel: a dashboard for a GTA 5 RP family with achievements and trucking runs. Nuxt 3, Tailwind, DaisyUI.
 
 Moretti Bot: Discord bot on discord.py with PostgreSQL and Redis.
@@ -83,35 +70,17 @@ Small FastAPI services and Selenium scrapers.
 
 <img src="https://skillicons.dev/icons?i=nuxtjs,vue,tailwind,py,fastapi,redis&theme=dark" height="32"/>
 
-</td>
-</tr>
-</table>
+</td> </tr> </table>
 
-## Stack
+Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,py,java,lua,godot&theme=dark&perline=12"/> <br/><br/> <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,vue,nuxtjs,tailwind,discordjs,fastapi,django&theme=dark&perline=12"/> <br/><br/> <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,mongodb,docker,linux,nginx,cloudflare,git,githubactions,vscode&theme=dark&perline=12"/> </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,lua,godot&theme=dark&perline=12"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,vue,nuxtjs,tailwind,discordjs,fastapi,django&theme=dark&perline=12"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,mongodb,docker,linux,nginx,cloudflare,git,githubactions,vscode&theme=dark&perline=12"/>
-</p>
+Activity
+<p align="center"> <img height="180" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnjoyMickeyDev&theme=github_dark&title_color=f2b134&text_color=e6edf3&bg_color=0d1117&border_color=30363d&icon_color=f2b134&chart_color=f2b134"/> <img height="180" alt="Most used commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnjoyMickeyDev&theme=github_dark&title_color=f2b134&text_color=e6edf3&bg_color=0d1117&border_color=30363d&icon_color=f2b134&chart_color=f2b134"/> </p>
 
-## Activity
+<p align="center"> <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=EnjoyMickeyDev&hide_border=true&background=0d1117&ring=f2b134&fire=f2b134&currStreakLabel=f2b134&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=30363d"/> </p>
 
-<p align="center">
-<img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg"/>
-<img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=EnjoyMickeyDev&hide_border=true&background=0d1117&ring=f2b134&fire=f2b134&currStreakLabel=f2b134&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=30363d"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnjoyMickeyDev/EnjoyMickeyDev/output/snake-dark.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/EnjoyMickeyDev/EnjoyMickeyDev/output/snake.svg"/>
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnjoyMickeyDev/EnjoyMickeyDev/output/snake-dark.svg"/> <img width="100%" alt="GitHub contributions snake" src="https://raw.githubusercontent.com/EnjoyMickeyDev/EnjoyMickeyDev/output/snake.svg"/> </picture>
 
 <div align="center">
 
