@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=F2B134&center=true&vCenter=true&width=640&lines=Echo+%E2%80%94+Discord+bot+and+site+in+10+languages;Minecraft+network%3A+Velocity+%2B+Arclight+%2B+own+launcher;Black+Die+%E2%80%94+co-op+horror+board+game+on+Godot" alt="typing"/>
-
+ 
 <br/>
 
 <a href="https://echo-assistants.tech"><img src="https://img.shields.io/badge/echo--assistants.tech-161b22?style=flat-square&logo=discord&logoColor=f2b134"/></a> <a href="https://enjoymickey.ru"><img src="https://img.shields.io/badge/enjoymickey.ru-161b22?style=flat-square&logo=googlechrome&logoColor=f2b134"/></a> <a href="https://discord.com/users/enjoymickey"><img src="https://img.shields.io/badge/@enjoymickey-161b22?style=flat-square&logo=discord&logoColor=5865F2"/></a> <img src="https://komarev.com/ghpvc/?username=EnjoyMickeyDev&style=flat-square&color=161b22&label=views"/>
